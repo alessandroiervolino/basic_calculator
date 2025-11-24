@@ -12,3 +12,9 @@ This project demonstrates:
 
 ## 🛠 Project Structure
 
+basic_calculator/
+├─ basic_calculator.c # Main program with the menu
+├─ basic_operations.c # Implementation of arithmetic functions
+├─ basic_operations.h # Function declarations
+├─ README.md # Project documentation
+
